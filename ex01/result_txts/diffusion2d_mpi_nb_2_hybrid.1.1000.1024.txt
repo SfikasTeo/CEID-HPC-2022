@@ -1,0 +1,2 @@
+[ ./diffusion2d_mpi_nb_2_hybrid ] Timestep from stability condition is 0.000000
+0.334066

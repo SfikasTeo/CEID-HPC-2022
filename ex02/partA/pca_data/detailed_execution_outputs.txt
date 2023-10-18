@@ -1,0 +1,140 @@
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 1 1                                                                                                                                       main ✚ ✱ ◼
+MEAN/STD TIME=  0.0112339 seconds
+NORMAL. TIME=   0.00872733 seconds
+C-MATRIX TIME=  45.3644 seconds
+DSYEV TIME=     36.7753 seconds
+PCREDUCED TIME= 0.00855456 seconds
+OVERALL TIME=   82.1684 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 30 1                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.0112492 seconds
+NORMAL. TIME=   0.00818777 seconds
+C-MATRIX TIME=  45.5174 seconds
+DSYEV TIME=     37.9779 seconds
+PCREDUCED TIME= 0.0273031 seconds
+OVERALL TIME=   83.5421 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 50 1                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.0112577 seconds
+NORMAL. TIME=   0.00871453 seconds
+C-MATRIX TIME=  45.4592 seconds
+DSYEV TIME=     37.1523 seconds
+PCREDUCED TIME= 0.0367162 seconds
+OVERALL TIME=   82.6683 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 100 1                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.0112273 seconds
+NORMAL. TIME=   0.00803712 seconds
+C-MATRIX TIME=  45.5557 seconds
+DSYEV TIME=     36.8623 seconds
+PCREDUCED TIME= 0.0624091 seconds
+OVERALL TIME=   82.4998 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 1 2                                                                                                                                       main ✚ ✱ ◼
+MEAN/STD TIME=  0.0064986 seconds
+NORMAL. TIME=   0.00839522 seconds
+C-MATRIX TIME=  22.8885 seconds
+DSYEV TIME=     35.8556 seconds
+PCREDUCED TIME= 0.00729562 seconds
+OVERALL TIME=   58.7663 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 30 2                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00612054 seconds
+NORMAL. TIME=   0.00863483 seconds
+C-MATRIX TIME=  22.8934 seconds
+DSYEV TIME=     35.7488 seconds
+PCREDUCED TIME= 0.0194459 seconds
+OVERALL TIME=   58.6766 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 50 2                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00660626 seconds
+NORMAL. TIME=   0.00806846 seconds
+C-MATRIX TIME=  23.0752 seconds
+DSYEV TIME=     35.4884 seconds
+PCREDUCED TIME= 0.0233641 seconds
+OVERALL TIME=   58.6018 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 100 2                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.00613488 seconds
+NORMAL. TIME=   0.00846019 seconds
+C-MATRIX TIME=  22.8144 seconds
+DSYEV TIME=     34.497 seconds
+PCREDUCED TIME= 0.0355977 seconds
+OVERALL TIME=   57.3617 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 100 4                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.00424208 seconds
+NORMAL. TIME=   0.00870166 seconds
+C-MATRIX TIME=  11.445 seconds
+DSYEV TIME=     34.5298 seconds
+PCREDUCED TIME= 0.029917 seconds
+OVERALL TIME=   46.0178 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 50 4                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00430889 seconds
+NORMAL. TIME=   0.00816533 seconds
+C-MATRIX TIME=  11.3936 seconds
+DSYEV TIME=     34.1846 seconds
+PCREDUCED TIME= 0.0247938 seconds
+OVERALL TIME=   45.6156 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 30 4                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00397733 seconds
+NORMAL. TIME=   0.00848568 seconds
+C-MATRIX TIME=  11.5489 seconds
+DSYEV TIME=     34.7318 seconds
+PCREDUCED TIME= 0.0171354 seconds
+OVERALL TIME=   46.3105 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 1 4                                                                                                                                       main ✚ ✱ ◼
+MEAN/STD TIME=  0.00450414 seconds
+NORMAL. TIME=   0.00874099 seconds
+C-MATRIX TIME=  11.4559 seconds
+DSYEV TIME=     35.762 seconds
+PCREDUCED TIME= 0.00709374 seconds
+OVERALL TIME=   47.2383 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 1 6                                                                                                                                       main ✚ ✱ ◼
+MEAN/STD TIME=  0.00461269 seconds
+NORMAL. TIME=   0.00815793 seconds
+C-MATRIX TIME=  7.62223 seconds
+DSYEV TIME=     35.2785 seconds
+PCREDUCED TIME= 0.00759706 seconds
+OVERALL TIME=   42.9213 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 30 6                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00432181 seconds
+NORMAL. TIME=   0.00815529 seconds
+C-MATRIX TIME=  7.62024 seconds
+DSYEV TIME=     34.4173 seconds
+PCREDUCED TIME= 0.0237794 seconds
+OVERALL TIME=   42.0739 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 50 6                                                                                                                                      main ✚ ✱ ◼
+MEAN/STD TIME=  0.00443946 seconds
+NORMAL. TIME=   0.00870215 seconds
+C-MATRIX TIME=  7.63731 seconds
+DSYEV TIME=     35.1469 seconds
+PCREDUCED TIME= 0.0222333 seconds
+OVERALL TIME=   42.8198 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 3 'c' 100 6                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.00423295 seconds
+NORMAL. TIME=   0.00793749 seconds
+C-MATRIX TIME=  7.6251 seconds
+DSYEV TIME=     34.6789 seconds
+PCREDUCED TIME= 0.0342506 seconds
+OVERALL TIME=   42.3505 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 4 'c' 100 6                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.0187207 seconds
+NORMAL. TIME=   0.0451055 seconds
+C-MATRIX TIME=  95.4929 seconds
+DSYEV TIME=     441.35 seconds
+PCREDUCED TIME= 0.133957 seconds
+OVERALL TIME=   537.041 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 4 'c' 100 4                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.0194533 seconds
+NORMAL. TIME=   0.0426965 seconds
+C-MATRIX TIME=  144.107 seconds
+DSYEV TIME=     448.318 seconds
+PCREDUCED TIME= 0.134586 seconds
+OVERALL TIME=   592.623 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 4 'c' 100 2                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.0314426 seconds
+NORMAL. TIME=   0.0506842 seconds
+C-MATRIX TIME=  287.158 seconds
+DSYEV TIME=     422.73 seconds
+PCREDUCED TIME= 0.185222 seconds
+OVERALL TIME=   710.155 seconds
+~/Cod/C/HPC/ex02/partA/pca ∲  ./run.sh 4 'c' 100 1                                                                                                                                     main ✚ ✱ ◼
+MEAN/STD TIME=  0.0605322 seconds
+NORMAL. TIME=   0.0416052 seconds
+C-MATRIX TIME=  571.426 seconds
+DSYEV TIME=     448.061 seconds
+PCREDUCED TIME= 0.304828 seconds
+OVERALL TIME=   1019.89 seconds

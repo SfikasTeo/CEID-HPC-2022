@@ -1,0 +1,2 @@
+[ ./diffusion2d_mpi_nb ] Timestep from stability condition is 0.000000
+104.606563
